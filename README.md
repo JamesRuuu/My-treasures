@@ -7,7 +7,7 @@
 5. 算相似度有很多方式，画图（直观）；apriori（代码少），常用于推荐算法；协方差矩阵（两两之间）
 
 
-'run dm.py'
+`run dm.py` 
 
 # features
 
