@@ -11,7 +11,11 @@
 `run dm.py` 
 
 # Result
-![Image]()
+![Frequent_itemsets](https://mp-987a18d7-91e9-45e2-9479-258d4157cb76.cdn.bspapp.com/dm_assignment/frequent_itemset.png)
+![Association_rules](https://mp-987a18d7-91e9-45e2-9479-258d4157cb76.cdn.bspapp.com/dm_assignment/rules.png)
+
+# Reference
+[Article](https://blog.csdn.net/m0_64336780/article/details/125355963)
 
 # Features
 
