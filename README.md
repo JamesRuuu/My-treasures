@@ -1,10 +1,10 @@
 # processing order
-1.read data，查阅格式/数据/特征列
-2.回顾assignment 1的问题——取消的因素，y_label = is_canceled，去找特征间的相似度
-3.画图，柱图/折线，单一线形关系
-4.特征间相似度 apriori/minhash/LSH（仅针对离散型数据）
-先用one-hot编码再求相似（把文字型分类特征做one-hot encode）
-5.算相似度有很多方式，画图（直观）；apriori（代码少），常用于推荐算法；协方差矩阵（两两之间）
+
+1. read data，查阅格式/数据/特征列
+2. 回顾assignment 1的问题——取消的因素，y_label = is_canceled，去找特征间的相似度
+3. 画图，柱图/折线，单一线形关系
+4. 特征间相似度 apriori/minhash/LSH（仅针对离散型数据）先用one-hot编码再求相似（把文字型分类特征做one-hot encode）
+5. 算相似度有很多方式，画图（直观）；apriori（代码少），常用于推荐算法；协方差矩阵（两两之间）
 
 
 'run dm.py'
