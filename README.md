@@ -6,6 +6,9 @@
 4. 特征间相似度 apriori/minhash/LSH（仅针对离散型数据）先用one-hot编码再求相似（把文字型分类特征做one-hot encode）
 5. 算相似度有很多方式，画图（直观）；apriori（代码少），常用于推荐算法；协方差矩阵（两两之间）
 
+# Next step
+1. 是否可以对连续型数据做pca降维？
+
 # How to run the code
 
 `run dm.py` 
